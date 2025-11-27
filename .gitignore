@@ -1,0 +1,24 @@
+# --- Ejecutables y Compilados (Windows) ---
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# --- Ejecutables y Compilados (Linux/Unix) ---
+*.out
+*.o
+*.so
+
+# --- Archivos específicos de tus ejercicios (Linux no tiene extensión) ---
+# Añade aquí los nombres de tus programas para que no se suban
+hola_mundo
+adios_mundo
+# Si creas uno nuevo, añádelo aquí o usa una carpeta build/
+
+# --- IDEs y Editores (Antigravity / VS Code) ---
+.vscode/
+*.code-workspace
+
+# --- Archivos del Sistema Operativo ---
+.DS_Store
+Thumbs.db
